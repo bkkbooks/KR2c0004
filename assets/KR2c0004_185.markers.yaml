@@ -352,6 +352,7 @@ markers:
   - {type: line-break, offset: 1340, content: '', id: KR2c0004_WYG_185-5a05}
   - {type: substitution, offset: 1342, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: punctuation, offset: 1343, content: (, id: KR2c0004_krp_185-bkkpn1}
+  - {type: voice, offset: 1343, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1345, content: /, id: KR2c0004_krp_185-bkkpn2}
   - {type: punctuation, offset: 1345, content: ), id: KR2c0004_krp_185-bkkpn3}
   - {type: substitution, offset: 1346, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
@@ -555,6 +556,7 @@ markers:
   - {type: substitution, offset: 2171, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: substitution, offset: 2173, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   - {type: punctuation, offset: 2177, content: (, id: KR2c0004_krp_185-bkkpn4}
+  - {type: voice, offset: 2177, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2178, content: /, id: KR2c0004_krp_185-bkkpn5}
   - {type: punctuation, offset: 2179, content: ), id: KR2c0004_krp_185-bkkpn6}
   - {type: 'kr:newline', offset: 2183, content: '
@@ -1140,4 +1142,4 @@ markers:
 
       ', id: KR2c0004_krp_185-bkkkrnewl251}
   back: []
-hash: sha256:094be4acd178baa62fecddeac216618b40327183dff42f6636995b7c8079ba8e
+hash: sha256:7bb510602f53fa5fb24e79bbf7f76f1af62c4d227c165ab52b0e2479efe4c66d
